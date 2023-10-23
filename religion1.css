@@ -5,7 +5,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    row-gap: 5%;
+    row-gap: 6%;
     flex-wrap: wrap;
 }
 a{
