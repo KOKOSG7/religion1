@@ -6,6 +6,7 @@ body{
     flex-direction: row;
     justify-content: space-around;
     row-gap: 5%;
+    flex-wrap: wrap;
 }
 a{
     border: 5px;
