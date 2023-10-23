@@ -6,7 +6,7 @@ body{
     flex-direction: row;
     justify-content: space-around;
     row-gap: 6%;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 a{
     border: 5px;
